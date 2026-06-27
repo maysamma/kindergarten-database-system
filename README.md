@@ -249,6 +249,6 @@ documentation/kindergarten_database_documentation.pdf
 
 # 👩‍💻 Author
 
-**Maysam Abdul Jalil**
+**Maysam Abduljalil**
 
 GitHub: https://github.com/maysamma
